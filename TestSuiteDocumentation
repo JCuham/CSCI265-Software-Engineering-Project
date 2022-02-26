@@ -1,0 +1,48 @@
+---------------------------------------------------------------------------
+Test Suite Documentation for testing demo program and associated files.
+---------------------------------------------------------------------------
+1) Testing script is located in tests/suitescript.sh
+
+   ->the tests directory also contains the following test files:
+   ->testCmds which tests demo program response to:
+   	      -Valid Commands.
+	      
+	      -Invalid Commands.
+	      
+	      -Toggling Verbose/Quiet mode.
+	      
+   ->Expected Results:
+   
+---------------------------------------------------------------------------
+   ->testFunc which tests demo program functionality:
+   	      -Test for duplicate insertions.
+	      
+	      -Printing quads and trees for empty, one level and multiple levels.
+	      
+	      -Find testing in both trees and quads where item exists and does not.
+	      
+	      -Quit testing where no tree is created, a tree is created but not
+	      deleted and tree has been created and deleted.
+
+	      -New testing where there is already a valid tree and where there
+	      is not a valid tree.
+
+	      -Testing for items that have 0-length addresses, 1-length addresses
+	      and max-length addresses.
+
+	      -Testing for inserts of invalid addresses:
+	      invalid length.
+	      contains invalid characters.
+	      lower left coroner is actually not lower or left of upper right
+	      corner.
+
+    ->testAll which tests the testCmds and testFunc togeather.
+
+2) suitescript.sh takes 1 arguments: ex. ./suitescript.sh testAll
+
+   -> testCmds: will test the demo responce to command input.
+   -> testFunc: will test the demo program functionality
+   -> testAll: runs all tests togeather
+
+3) suitescript.sh counts all passed/failed tests and pipes test output results
+   to a file called testResults.

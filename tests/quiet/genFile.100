@@ -1,0 +1,904 @@
+V
+N
+I
+item 0
+ll 1122220, ur 1122223
+1122220
+1122223
+F
+T
+*
+item 0
+I
+item 1
+ll 301130, ur 301133
+301130
+301133
+F
+T
+*
+item 1
+I
+item 2
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 2
+I
+item 3
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 3
+I
+item 4
+ll 21021120, ur 21021123
+21021120
+21021123
+F
+T
+*
+item 4
+I
+item 5
+ll 21010020, ur 21010023
+21010020
+21010023
+F
+T
+*
+item 5
+I
+item 6
+ll 33223300, ur 33223303
+33223300
+33223303
+F
+T
+*
+item 6
+I
+item 7
+ll 23000110, ur 23000113
+23000110
+23000113
+F
+T
+*
+item 7
+I
+item 8
+ll 2300, ur 2303
+2300
+2303
+F
+T
+*
+item 8
+I
+item 9
+ll 00010320, ur 00010323
+00010320
+00010323
+F
+T
+*
+item 9
+I
+item 10
+ll 10200030, ur 10200033
+10200030
+10200033
+F
+T
+*
+item 10
+I
+item 11
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 11
+I
+item 12
+ll 0030200, ur 0030203
+0030200
+0030203
+F
+T
+*
+item 12
+I
+item 13
+ll 121020, ur 121023
+121020
+121023
+F
+T
+*
+item 13
+I
+item 14
+ll 3003300, ur 3003303
+3003300
+3003303
+F
+T
+*
+item 14
+I
+item 15
+ll 0332220, ur 0332223
+0332220
+0332223
+F
+T
+*
+item 15
+I
+item 16
+ll 20, ur 23
+20
+23
+F
+T
+*
+item 16
+I
+item 17
+ll 12101200, ur 12101203
+12101200
+12101203
+F
+T
+*
+item 17
+I
+item 18
+ll 0131000, ur 0131003
+0131000
+0131003
+F
+T
+*
+item 18
+I
+item 19
+ll 33110, ur 33113
+33110
+33113
+F
+T
+*
+item 19
+I
+item 20
+ll 010, ur 013
+010
+013
+F
+T
+*
+item 20
+I
+item 21
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 21
+I
+item 22
+ll 02110, ur 02113
+02110
+02113
+F
+T
+*
+item 22
+I
+item 23
+ll 11030220, ur 11030223
+11030220
+11030223
+F
+T
+*
+item 23
+I
+item 24
+ll 2300, ur 2303
+2300
+2303
+F
+T
+*
+item 24
+I
+item 25
+ll 0200210, ur 0200213
+0200210
+0200213
+F
+T
+*
+item 25
+I
+item 26
+ll 10, ur 13
+10
+13
+F
+T
+*
+item 26
+I
+item 27
+ll 1220, ur 1223
+1220
+1223
+F
+T
+*
+item 27
+I
+item 28
+ll 0000, ur 0003
+0000
+0003
+F
+T
+*
+item 28
+I
+item 29
+ll 302030, ur 302033
+302030
+302033
+F
+T
+*
+item 29
+I
+item 30
+ll 300120, ur 300123
+300120
+300123
+F
+T
+*
+item 30
+I
+item 31
+ll 1030, ur 1033
+1030
+1033
+F
+T
+*
+item 31
+I
+item 32
+ll 323300, ur 323303
+323300
+323303
+F
+T
+*
+item 32
+I
+item 33
+ll 03321320, ur 03321323
+03321320
+03321323
+F
+T
+*
+item 33
+I
+item 34
+ll 00, ur 03
+00
+03
+F
+T
+*
+item 34
+I
+item 35
+ll 300, ur 303
+300
+303
+F
+T
+*
+item 35
+I
+item 36
+ll 32021330, ur 32021333
+32021330
+32021333
+F
+T
+*
+item 36
+I
+item 37
+ll 2331110, ur 2331113
+2331110
+2331113
+F
+T
+*
+item 37
+I
+item 38
+ll 0200, ur 0203
+0200
+0203
+F
+T
+*
+item 38
+I
+item 39
+ll 33133210, ur 33133213
+33133210
+33133213
+F
+T
+*
+item 39
+I
+item 40
+ll 20, ur 23
+20
+23
+F
+T
+*
+item 40
+I
+item 41
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 41
+I
+item 42
+ll 3033310, ur 3033313
+3033310
+3033313
+F
+T
+*
+item 42
+I
+item 43
+ll 230, ur 233
+230
+233
+F
+T
+*
+item 43
+I
+item 44
+ll 3333110, ur 3333113
+3333110
+3333113
+F
+T
+*
+item 44
+I
+item 45
+ll 330, ur 333
+330
+333
+F
+T
+*
+item 45
+I
+item 46
+ll 013300, ur 013303
+013300
+013303
+F
+T
+*
+item 46
+I
+item 47
+ll 031010, ur 031013
+031010
+031013
+F
+T
+*
+item 47
+I
+item 48
+ll 1330, ur 1333
+1330
+1333
+F
+T
+*
+item 48
+I
+item 49
+ll 23302110, ur 23302113
+23302110
+23302113
+F
+T
+*
+item 49
+I
+item 50
+ll 003320, ur 003323
+003320
+003323
+F
+T
+*
+item 50
+I
+item 51
+ll 20110010, ur 20110013
+20110010
+20110013
+F
+T
+*
+item 51
+I
+item 52
+ll 030, ur 033
+030
+033
+F
+T
+*
+item 52
+I
+item 53
+ll 01330, ur 01333
+01330
+01333
+F
+T
+*
+item 53
+I
+item 54
+ll 21330, ur 21333
+21330
+21333
+F
+T
+*
+item 54
+I
+item 55
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 55
+I
+item 56
+ll 2030, ur 2033
+2030
+2033
+F
+T
+*
+item 56
+I
+item 57
+ll 2130, ur 2133
+2130
+2133
+F
+T
+*
+item 57
+I
+item 58
+ll 0010, ur 0013
+0010
+0013
+F
+T
+*
+item 58
+I
+item 59
+ll 01213220, ur 01213223
+01213220
+01213223
+F
+T
+*
+item 59
+I
+item 60
+ll 10, ur 13
+10
+13
+F
+T
+*
+item 60
+I
+item 61
+ll 023210, ur 023213
+023210
+023213
+F
+T
+*
+item 61
+I
+item 62
+ll 2100230, ur 2100233
+2100230
+2100233
+F
+T
+*
+item 62
+I
+item 63
+ll 30, ur 33
+30
+33
+F
+T
+*
+item 63
+I
+item 64
+ll 12201020, ur 12201023
+12201020
+12201023
+F
+T
+*
+item 64
+I
+item 65
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 65
+I
+item 66
+ll 22022030, ur 22022033
+22022030
+22022033
+F
+T
+*
+item 66
+I
+item 67
+ll 0111120, ur 0111123
+0111120
+0111123
+F
+T
+*
+item 67
+I
+item 68
+ll 030, ur 033
+030
+033
+F
+T
+*
+item 68
+I
+item 69
+ll 01100, ur 01103
+01100
+01103
+F
+T
+*
+item 69
+I
+item 70
+ll 03322130, ur 03322133
+03322130
+03322133
+F
+T
+*
+item 70
+I
+item 71
+ll 1130, ur 1133
+1130
+1133
+F
+T
+*
+item 71
+I
+item 72
+ll 30210, ur 30213
+30210
+30213
+F
+T
+*
+item 72
+I
+item 73
+ll 12120, ur 12123
+12120
+12123
+F
+T
+*
+item 73
+I
+item 74
+ll 130, ur 133
+130
+133
+F
+T
+*
+item 74
+I
+item 75
+ll 20, ur 23
+20
+23
+F
+T
+*
+item 75
+I
+item 76
+ll 002220, ur 002223
+002220
+002223
+F
+T
+*
+item 76
+I
+item 77
+ll 32222020, ur 32222023
+32222020
+32222023
+F
+T
+*
+item 77
+I
+item 78
+ll 002320, ur 002323
+002320
+002323
+F
+T
+*
+item 78
+I
+item 79
+ll 00, ur 03
+00
+03
+F
+T
+*
+item 79
+I
+item 80
+ll 233000, ur 233003
+233000
+233003
+F
+T
+*
+item 80
+I
+item 81
+ll 0210, ur 0213
+0210
+0213
+F
+T
+*
+item 81
+I
+item 82
+ll 320, ur 323
+320
+323
+F
+T
+*
+item 82
+I
+item 83
+ll 000, ur 003
+000
+003
+F
+T
+*
+item 83
+I
+item 84
+ll 30, ur 33
+30
+33
+F
+T
+*
+item 84
+I
+item 85
+ll 203110, ur 203113
+203110
+203113
+F
+T
+*
+item 85
+I
+item 86
+ll 13120, ur 13123
+13120
+13123
+F
+T
+*
+item 86
+I
+item 87
+ll 21310, ur 21313
+21310
+21313
+F
+T
+*
+item 87
+I
+item 88
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 88
+I
+item 89
+ll 112010, ur 112013
+112010
+112013
+F
+T
+*
+item 89
+I
+item 90
+ll 20, ur 23
+20
+23
+F
+T
+*
+item 90
+I
+item 91
+ll 310, ur 313
+310
+313
+F
+T
+*
+item 91
+I
+item 92
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 92
+I
+item 93
+ll 1232000, ur 1232003
+1232000
+1232003
+F
+T
+*
+item 93
+I
+item 94
+ll 32230030, ur 32230033
+32230030
+32230033
+F
+T
+*
+item 94
+I
+item 95
+ll 0, ur 3
+0
+3
+F
+T
+*
+item 95
+I
+item 96
+ll 00020030, ur 00020033
+00020030
+00020033
+F
+T
+*
+item 96
+I
+item 97
+ll 0303330, ur 0303333
+0303330
+0303333
+F
+T
+*
+item 97
+I
+item 98
+ll 0030, ur 0033
+0030
+0033
+F
+T
+*
+item 98
+I
+item 99
+ll 100, ur 103
+100
+103
+F
+T
+*
+item 99
+V
+Q

@@ -1,0 +1,19 @@
+Welcome to the ItemTree demo
+Enter any one of the following commands:
+Q to quit
+H to display this menu
+V to toggle verbose mode (prompts/messages)
+N to create a new tree (deletes old)
+D to delete the current tree
+P to print items from the tree
+I to insert new elements in the tree
+R to remove elements from the tree
+F to find elements in the tree
+Enter a command (QHNDPFVIR: H is help) ☺☺☺>
+>
+Enter a command (QHNDPFVIR: H is help) ☺☺☺>
+Error: an invalid command was entered, please try again
+(H is the command for the help menu)
+Enter a command (QHNDPFVIR: H is help) ☺☺☺>
+Deallocating item tree and shutting down
+Warning: no item tree present to delete
