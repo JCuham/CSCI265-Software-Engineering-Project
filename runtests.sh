@@ -4,9 +4,6 @@
 #     runtests.sh        #
 #------------------------#
 
-#needed a bit of help with this script so i refered to
-#https://stackoverflow.com/questions/18897264/bash-writing-a-script-to-recursively-travel-a-directory-of-n-levels
-#for ideas
 
 #This script takes a directory name and executible
 #searches the directory and any subdirectories for any readable files
