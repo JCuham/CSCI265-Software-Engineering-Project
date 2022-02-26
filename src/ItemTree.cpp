@@ -196,9 +196,6 @@ int ItemTree::size(tnode *t)
    return t->tsize;
 }
 
-// =====================================================
-//      THE THREE METHODS BELOW NEED TO BE COMPLETED
-// =====================================================
 
 // print the contents of a specific node
 void ItemTree::printQuad(tnode *t)
@@ -206,25 +203,20 @@ void ItemTree::printQuad(tnode *t)
    if (!t) return;
    // iterate through the list of items, printing each
    std::list<Item*>::iterator i;
-   //strings to hold item data
-   //   std::string ti,d,LL,UR,quad;
-   //iterating while end of list is not null
+
    // setting iterator to beginning of list position
    i = t->itemList.begin();
    
    while(i != t->itemList.end()){
-     //var to store current data
+
      Item* current = (*i);
-     //looking up current data
-     // current->lookup(ti,d,LL,UR,quad);
-     //printing data
-     // std::cout<<ti<<"::"<<d<<"("<<quad<<":"<<LL<<":"<<UR<<")"<<std::endl;
+
      current->print();
-     //incrementing iterator
+
      i++;
    }
 
-   // to be done
+
 }
 
 // find the item with the specified title and tnode, and return a pointer to it,
@@ -236,26 +228,22 @@ Item* ItemTree::findInQuad(std::wstring title, tnode *t)
 
    //iterator for iteration through list of items
    std::list<Item*>::iterator i;
-   //  std::list<Item*>L;
+
    std::wstring ti,d,LL,UR,quad;
-    //  L.push_front(title);
    // iterate through the list of items, checking each
    i = t->itemList.begin();
    while(i != t->itemList.end()){
       Item* cNode = (*i);
       cNode->lookup(ti,d,LL,UR,quad);
-     // std::string cNode = (*i);
-     // cTitle = (*i.title);
-      // if(cNode->quadrant == title){
+
       if(ti == title){
-       // Item *nodeptr = cNode;
        return cNode;
      }
 
-     //incrementing iterator
+
      i++;
    }
-   // to be done
+
 
    return NULL;
 }
@@ -277,7 +265,6 @@ bool ItemTree::findInQuad(Item *target, tnode *t)
        return true;
      }
    }
-   // to be done
 
    return false;
 }
