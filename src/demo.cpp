@@ -4,7 +4,7 @@
 #include <cwchar>
 #include <cwctype>
 /*
-Demo.cpp for csci265, Created by Dave Wessels for use by
+Demo.cpp for csci265, Created by Dave Wessels for implementation by
 James Cunningham
 */
 /*
