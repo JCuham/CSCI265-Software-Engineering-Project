@@ -7,6 +7,7 @@
 Demo.cpp for csci265, Created by Dave Wessels for implementation by
 James Cunningham
 */
+
 /*
  This program is designed to create and manage a quadtree of data 
  */
