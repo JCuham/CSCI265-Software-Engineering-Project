@@ -45,4 +45,4 @@ Test Suite Documentation for testing demo program and associated files.
    -> testAll: runs all tests togeather
 
 3) suitescript.sh counts all passed/failed tests and pipes test output results
-   to a file called testResults.
+   to a file called results.
