@@ -10,7 +10,7 @@
 #then runs the executible on each file uses the file content as input
 
 #checking if is a directory and is readable
-    read -p "Please enter a directory name> " directory
+    read -p "Please enter a directory or text file name> " directory
     if [[ ! -d "${directory}" || ! -f "${directory} ]] && [[ ! -r "${directory}" || ! -r "${directory} "]] ; then
     echo "Not a valid directory or readable directory"
     exit 1
