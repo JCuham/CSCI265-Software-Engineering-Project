@@ -5,13 +5,13 @@
 #------------------------#
 
 
-#This script takes a directory name and executible
+#This script takes a directory name or text file and executible
 #searches the directory and any subdirectories for any readable files
 #then runs the executible on each file uses the file content as input
 
 #checking if is a directory and is readable
     read -p "Please enter a directory name> " directory
-    if [[ ! -d "${directory}" ]] && [[ ! -r "${directory}" ]] ; then
+    if [[ ! -d "${directory}" || ! -f "${directory} ]] && [[ ! -r "${directory}" || ! -r "${directory} "]] ; then
     echo "Not a valid directory or readable directory"
     exit 1
     fi
