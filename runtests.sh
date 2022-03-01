@@ -12,7 +12,7 @@
 #checking if is a directory and is readable
     read -p "Please enter a directory or text file name> " directory
     if [[ ! -d "${directory}" || ! -f "${directory} ]] && [[ ! -r "${directory}" || ! -r "${directory} "]] ; then
-    echo "Not a valid directory or readable directory"
+    echo "Not a valid directory/file or readable directory/file"
     exit 1
     fi
 
