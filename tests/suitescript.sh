@@ -22,21 +22,21 @@ expFunc="testFuncExpected"
 
 #Start testing
 if [ "$1" == "testCmds" ] ; then
-	./runtests.sh testCmds ${binary} >> results
-	diff results.txt ${expCmds} >> resultsCmd
+	./runtests.sh testCmds ${binary} > results
+	diff results.txt ${expCmds} > resultsCmd
 	echo "Completed testCmds test results located in resultsCmd.txt"
 	exit
 elif [ "$1" == "testFunc" ] ; then
-	./runtests.sh testFunc ${binary} >> results
-	diff results.txt ${expFunc} >> resultsFunc
+	./runtests.sh testFunc ${binary} > results
+	diff results.txt ${expFunc} > resultsFunc
 	echo "Completed testFunc test results located in resultsFunc.txt"
 	exit
 elif [ " $1" == "testAll" ] ; then
-	./runtests.sh testCmds ${binary} >> results
-	diff results.txt ${expCmds} >> resultsCmd
-	./runtests.sh testFunc ${binary} >> results
-	diff results.txt ${expFunc} >> resultsFunc
-	cat resultsCmd resultsFunc >> results
+	./runtests.sh testCmds ${binary} > results
+	diff results.txt ${expCmds} > resultsCmd
+	./runtests.sh testFunc ${binary} > results
+	diff results.txt ${expFunc} > resultsFunc
+	cat resultsCmd resultsFunc > results
 	echo "Completed testAll test results located in results.txt"
 	exit
 else
